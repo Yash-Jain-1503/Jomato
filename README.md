@@ -7,5 +7,5 @@ possible.
 
 
 To view the app:
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://yash-zomato-clone.netlify.app/](https://yash-zomato-clone.netlify.app/) to view it in your browser.
 
